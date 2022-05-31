@@ -62,7 +62,7 @@ FROM
 ) m
 WHERE theme_name LIKE '%trains%' 
 
--- The Most Popular Theme by Year in Terms of Sers Released in the 21st Century
+-- The Most Popular Theme by Year in Terms of Sets Released in the 21st Century
 
 SELECT year, theme_name, total_set_num
 FROM
