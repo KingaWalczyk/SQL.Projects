@@ -1,5 +1,5 @@
 /*
-Cleaning Data on Housing in Nashville with SQl Queries.
+Cleaning Data on Housing in Nashville with SQL Queries.
 Utilizing Converting Data Types, Join, Windows Function, CTE's.
 */
 
